@@ -188,7 +188,7 @@ $cuerpo .= '
 /**/
     $para    = $destinatario;
     $nameFull = " Financial";
-
+    $urlCanal = "google.com";
     $titulo  = "Mi Formulario de Contacto";
     $mensaje = "
     <!doctype html>
@@ -230,6 +230,8 @@ $cuerpo .= '
 
 }
 ?>
+
+
   
 <div class="row text-center mt-5 mb-5">
     <div class="col-12">
